@@ -1,7 +1,7 @@
 # AWS-vpc-peering-project 
 
 
-**EWB Cloud Labs, Project 01**
+**EWB Cloud Labs, Project **
 
 - **Name:** Nandini Ghosh
 - **College:** Sister Nivedita University
