@@ -1,4 +1,4 @@
-# aws-vpc-peering-project
+# AWS-vpc-peering-project
 
 EWB Cloud Labs, Project 01
 Name: Nandini Ghosh
